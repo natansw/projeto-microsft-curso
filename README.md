@@ -4,4 +4,4 @@
 ---
 
 ## **Sobre:**
-Este projeto desenvolvido desenvolvido em um curso da Microsoft que abrange noções básicas de HTML, CSS e Javascript, consiste numa simples página com elementos das 3 tecnologias, sendo a escrita parte do HTML, as cores, do CSS e o botão que faz as cores de fundo e da fonte mudarem, do Javascript.
+Este projeto desenvolvido em um curso da Microsoft que abrange noções básicas de HTML, CSS e Javascript, consiste numa simples página com elementos das 3 tecnologias, sendo a escrita parte do HTML, as cores, do CSS e o botão que faz as cores de fundo e da fonte mudarem, do Javascript.
